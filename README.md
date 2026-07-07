@@ -54,6 +54,9 @@ This repository may include examples such as:
 - `process-improvement-notes.md`  
   Notes showing how repeated QA issues can be documented and used to improve workflows.
 
+- `qa-review-summary-template.md`  
+  A template for summarizing QA review findings, issue severity, recommended corrections, follow-up needs, and final review status.
+
 ## Sample QA Review Checklist
 
 ### Accuracy
